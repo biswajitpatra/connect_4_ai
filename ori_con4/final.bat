@@ -1,0 +1,1 @@
+C:\Users\raja\Desktop\PYSOFT\BIT\chatbot\mymsg\Scripts\python.exe C:\Users\raja\Desktop\PYSOFT\connect_4\ori_con4\con4ai_copy.py %*
